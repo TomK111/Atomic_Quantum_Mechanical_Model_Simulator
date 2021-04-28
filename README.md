@@ -6,10 +6,6 @@ This repository is specifically configured for Windows Operating Systems.
 
 <hr/>
 <div>
-  <img src="https://github.com/TomislavKraljic/Particle-Simulator/blob/master/Screenshot%20from%202021-04-27%2003-16-14.png" height="300" width="400"/>
-  <img src="https://github.com/TomislavKraljic/Particle-Simulator/blob/master/Screenshot%20from%202021-04-27%2003-22-29.png" height="300" width="400"/>
+  <img src="https://github.com/TomislavKraljic/Particle_Simulator_Windows/blob/main/Screenshot%202021-04-28%20153241.jpg" height="300" width="400"/>
 </div>
-<div>
-  <img src="https://github.com/TomislavKraljic/Particle-Simulator/blob/master/Screenshot%20from%202021-04-27%2003-22-41.png" height="300" width="400"/>
-  <img src="https://github.com/TomislavKraljic/Particle-Simulator/blob/master/Screenshot%20from%202021-04-27%2003-23-49.png" height="300" width="400"/>
-</div>
+
