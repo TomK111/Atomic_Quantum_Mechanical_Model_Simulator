@@ -6,6 +6,6 @@ This repository is specifically configured for Windows Operating Systems.
 
 <hr/>
 <div>
-  <img src="https://github.com/TomislavKraljic/Particle_Simulator_Windows/blob/main/Screenshot%202021-04-28%20153241.jpg" height="300" width="400"/>
+  <img src="Screenshot%202021-04-28%20153241.jpg" height="300" width="400"/>
 </div>
 
