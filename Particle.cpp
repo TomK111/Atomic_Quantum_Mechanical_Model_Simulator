@@ -19,9 +19,9 @@ Particle::~Particle() {
 }
 
 void Particle::update(int interval) {
-    m_direction += interval * 0.003;
-    double xspeed = m_speed * cos(m_direction);
-    double yspeed = m_speed * sin(m_direction);
+    m_direction += interval * 0.007;
+    double xspeed = m_speed * sin(m_direction);
+    double yspeed = m_speed * cos(m_direction);
     m_x += xspeed * interval;
     m_y += yspeed * interval;
     if (m_x < -1 || m_x > 1 || m_y < -1 || m_y > 1) {
