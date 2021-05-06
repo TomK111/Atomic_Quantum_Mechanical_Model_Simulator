@@ -10,6 +10,6 @@
 
 <hr/>
 <div>
-  <img src="Screenshot%202021-05-06%20140726.jpg" height="300" width="400"/>
+  <img src="Screenshot%202021-05-06%20140726.jpg" height="300" width="300"/>
 </div>
 
