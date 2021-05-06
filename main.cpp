@@ -18,7 +18,7 @@ int SDL_main (int argc, char* argv[]) {
     while (true) {
         int elapsed = SDL_GetTicks();
         swarm.update(elapsed);
-        unsigned char green = (unsigned char) ((1 + sin(elapsed * 0.00001)) * 128);
+        unsigned char green = (unsigned char) ((1 + sin(elapsed * 0.00004)) * 128);
         unsigned char red = (unsigned char) ((1 + sin(elapsed * 0.00002)) * 128);
         unsigned char blue = (unsigned char) ((1 + sin(elapsed * 0.00003)) * 128);
         const Particle * const pParticles = swarm.getParticles();
