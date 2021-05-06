@@ -5,7 +5,7 @@
 
 class Swarm {
 public:
-    const static int NPARTICLES = 100000;
+    const static int NPARTICLES = 125000;
 private:
     Particle * m_pParticles;
     int lastTime;
