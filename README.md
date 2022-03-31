@@ -1,4 +1,4 @@
-#  Quantum Mechanical Model Simulator
+#  Atomic Quantum Mechanical Model Simulator
 
 #### This is a simulator of Dr. Erwin Schrodinger's Quantum Mechanical Model of the Atom using SDL (Simple Direct Media Layer) and C++. This application simulates how electrons behave and move around atoms at the molecular level by manipulating bits on the screen. The particles change colors the longer you keep this program running.
 
